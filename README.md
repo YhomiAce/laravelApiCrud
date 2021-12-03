@@ -3,6 +3,7 @@
 <h3>Create CRUD API</h3>
 
 #### Clone Application
+#### Run composer install
 #### Create .env
 #### Create Database
 #### Run Migration
